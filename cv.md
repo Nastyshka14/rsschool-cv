@@ -1,17 +1,57 @@
-<!-- What should a Junior Developer Resume contain?
+# **Resume**
 
-! Important: write your Resume in English if you can, if possible
+***Anastasiya Korshun***
 
-1. First Name, Last Name (real ones)
-2. Contact Info (add several ways to contact you)
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
-6. Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)
-7. Education (including courses, seminars, lectures, online learning)
-8. English (elaborate on what kind of practice you had, if any, how long it lasted and so on) -->
+nastya.korshun.1997@mail.ru
 
++375291028024 - A1
+
+---
+## **Summary**
+Novice frontend-developer with technikal education. Confident knowledge of HTML, CSS/SCSS, JavaScript. I make it my goal to create software with the user in mind, creating applications with a useable and intuitive user interface experience. I also understand the importance of creating highly readable and easily maintainable source code. I am constantly striving to learn new technologies and look to ways to better myself in this rapidly changing industry.
+
+---
+## **Technical Skills**
+- ***Programming languages and technologies:*** Javascript (ES5, ES2015), HTML, CSS/SCSS, Responsive / Adaptive markup
+- ***Programming practices:*** Agile, Kanban, Scrum, Code review
+- ***Tools:*** VSCode, Webpack, Git, ESlint, Babel, Adobe Photoshop, Adobe Illustrator
+
+---
+## **Code Examples**
+```javascript
+// My code for warmup task
+module.exports = function warmup(temperature) {
+  return (temperature*1.8+32);
+};
+```
+
+---
+## **Work-Experience**
+***Web-designer (Freelance)***
+
+*Dates Employed: 06.2016 – 2018*
+
+- Development logo design
+- Design portfolio
+- Web design
+- Branding
+- Social media management.
+
+***Work rating engineer***
+
+*Minsk electrotechnical plant named after V.I. Kozlov (2019 – present)*
+
+- Work on the regulation of labor, calculation of standards, analysis of their quality and timely review;
+- Development of unit and shear rates, timing of working hours;
+- Introduction of time tracking;
+
+---
+## **Education**
+***Belarusian National Technical University.*** Minsk 2014-2019
+
+
+---
+## **English Experience**
+***Pre-intermediate (А2)***
+
+8 years experience
